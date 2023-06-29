@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @PrasannaPandit-3011
-- 👀 I’m interested in learning Game Development
-- 🌱 I’m currently learning Basics of Game Development
-- 💞️ I’m looking to collaborate on any platform  
-- 📫 How to reach me Insta: _its_me_pcp
+- 👀 I’m interested in learning Web Development and Coding
+- 🌱 I’m currently learning MERN Stack and Data structures in Python
 
 <!---
 PrasannaPandit-3011/PrasannaPandit-3011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
